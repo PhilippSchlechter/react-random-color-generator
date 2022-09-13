@@ -1,8 +1,12 @@
-React Random Color Generator:
-Practice of using React
-Created by Philipp Schlechter
-Using randomcolor(library) and a button, simple as that
-Created in the 2nd week (Upleveled Bootcamp) 09.22
+# React Random Color Generator:
+
+# Practice of using React
+
+# Created by Philipp Schlechter
+
+# Using randomcolor(library) and a button, simple as that
+
+# Created in the 2nd week (Upleveled Bootcamp) 09.22
 
 # Getting Started with Create React App
 
