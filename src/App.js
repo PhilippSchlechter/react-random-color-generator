@@ -16,8 +16,8 @@ function App() {
       <br />
       <div
         style={{
-          width: 400,
-          height: 400,
+          width: 450,
+          height: 450,
           margin: '0 auto',
           display: 'flex',
           justifyContent: 'center',
@@ -28,10 +28,7 @@ function App() {
           backgroundColor: color,
         }}
       >
-        Generated Color:
-        <br />
-        <br />
-        {color}
+        Generated Color: {color}
         <br />
       </div>
       <br />
