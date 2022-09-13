@@ -1,6 +1,10 @@
+body {
+  background-color: lightblue;
+}
+
 div {
   text-align: center;
-  transition: background 1s;
+  transition: background 2s;
 }
 
 .rButton {

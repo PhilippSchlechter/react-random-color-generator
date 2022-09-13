@@ -2,9 +2,8 @@ import './App.css';
 import randomColor from 'randomcolor';
 import { useState } from 'react';
 
-// on change?
 function App() {
-  const [color, setColor] = useState(randomColor());
+  const [color, setColor] = useState('');
 
   return (
     <div>
@@ -51,7 +50,8 @@ function App() {
           border: '2px solid',
           fontsize: 50,
           borderRadius: 50,
-          backgroundColor: 'white',
+          backgroundColor: 'black',
+          color: 'white',
         }}
         onClick={() => {
           const color1 = randomColor();
