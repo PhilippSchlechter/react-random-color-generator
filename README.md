@@ -4,7 +4,7 @@
 
 -Created by Philipp Schlechter
 
--Using randomcolor(library) and a button, simple as that
+-Using randomcolor(library) and a button and some Css
 
 -Created in the 2nd week (Upleveled Bootcamp) 09.22
 
