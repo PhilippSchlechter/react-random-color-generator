@@ -29,7 +29,6 @@ function App() {
         }}
       >
         Generated Color: {color}
-        <br />
       </div>
       <br />
       <br />
